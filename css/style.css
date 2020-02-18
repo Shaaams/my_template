@@ -1,0 +1,11 @@
+:root{
+    --body-color: #e9e9eb;
+    --first-color: #5b4834;
+    --second-color: #aaa69d;
+    --side-color:     #474747;
+    --sub-menu-color: #6c6c6d;
+}
+
+body{
+    background-color: var(--body-color);
+}
